@@ -2,7 +2,7 @@
 title: Noisy Notes & Random Rants
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Some noisy notes and rare random rants from @saarlo
+  Some noisy notes and rare random rants from Siim Saarlo
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://saarlo.github.io" # the base hostname & protocol for your site
 twitter_username: siimsaarlo
